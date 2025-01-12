@@ -1,7 +1,7 @@
 # HRFormer: High-Resolution Transformer for Dense Prediction, NeurIPS 2021
 
 
-<img src='HRFormer-20-fps.gif' align="center" width=1024>
+<img src='https://github.com/saiklonarch/HRFormer/blob/main/new1.PNG' align="center" width=1024>
 
 
 
